@@ -1,0 +1,9 @@
+.idea
+.terraform
+.terraform.lock.hcl
+backup/*
+*account.json
+terraform.tfstate*
+terraform.tfvars
+*.ignore
+.DS_STORE
